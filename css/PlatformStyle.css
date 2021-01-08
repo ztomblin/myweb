@@ -1,0 +1,50 @@
+body
+{
+	background-color: #114800;
+	text-align: center;
+}
+
+#container
+{
+	background-color: #B3E095;
+	width: 960px;
+	margin: 0 auto;
+}
+
+header
+{
+	width: 910px;
+	color: #B3E095;
+	height: 100px;
+	padding: 25px;
+	margin-bottom: 10px;
+	text-align: center;
+	background-color: #599532;
+}
+
+nav
+{
+	width: 920px;
+	background-color: #1D4B00;
+	height: 25px;
+	margin: 0 10px 10px 10px;
+	padding: 10px 10px 30px 10px;
+	text-align: center;
+}
+
+nav li
+{
+	display:inline;
+	list-style-type:none;
+	padding-right: 40px;
+}
+
+a:visited
+{
+	color:#B3E095;
+}
+
+a:link
+{
+	color: #B3E095;
+}
